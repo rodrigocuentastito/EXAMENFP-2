@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 
-public class Examenpregunta3 {
-    public static void tipovacunaRMCT(){
+public class Examenpregunta3.main(Examenpregunta3.java:25){
         final String sexo;
 		String tipovacuna;
         int edad;
